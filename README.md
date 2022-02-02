@@ -1,8 +1,8 @@
 ### Hello there ~
 
-![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical)
+![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
 
-![5026's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SN-Koarashi&layout=compact&theme=radical&locale=en)
+![5026's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6)
 
 <!--
 
