@@ -1,11 +1,5 @@
 ### Hello there ~
 
-![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
-
-![5026's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6)
-
-[My Github Website](https://github.snkms.com/)
-
 ### Most commonly used IDE
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=Notepad%2B%2B&logoColor=90E59A&message=Notepad%2B%2B&label=)
 ![VS](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=visualstudio&logoColor=ce97fa&message=visual+studio&label=)
@@ -32,6 +26,11 @@
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
+![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
+
+![5026's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6)
+
+[My Github Website](https://github.snkms.com/)
 <!--
 
 Here are some ideas to get you started:
