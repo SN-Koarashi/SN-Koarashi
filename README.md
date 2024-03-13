@@ -48,10 +48,11 @@
 
 ### Operating Systems
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Windows&logoColor=0078D6&message=Windows&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
-![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
 ![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=000000&logo=TrueNAS&logoColor=0095D5&label=)
+![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
 
+## Banner
 
 <!--
 ![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
