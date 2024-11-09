@@ -61,7 +61,7 @@
 -->
 
 <picture>
-  <img src="https://gist.githubusercontent.com/SN-Koarashi/7a001f3a4264ede1ad84af101fd0ffa6/raw/eac1b0d7515f59e6c5f80c8d06f1ed51ca4717a1/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://gist.githubusercontent.com/SN-Koarashi/7a001f3a4264ede1ad84af101fd0ffa6/raw/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
 ![5026's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
