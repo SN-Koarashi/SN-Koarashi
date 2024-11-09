@@ -17,3 +17,17 @@ jobs:
       - uses: SN-Koarashi/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Taipei
+          base_indepth: true
+          repositories_forks: true
+          plugin_languages: true
+          plugin_languages_indepth: true
+          plugin_languages_other: false
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_details: lines
+          plugin_isocalendar: true
+          plugin_reactions: true
+          config_display: large
+          output_action: gist
+          committer_gist: 7a001f3a4264ede1ad84af101fd0ffa6
