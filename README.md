@@ -1,4 +1,4 @@
-## Hello there ~
+<!--## Hello there ~-->
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/snkoarashi)
 
 > `¯\_(ツ)_/¯`
@@ -52,7 +52,7 @@
 ![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
 
-## Banner
+## Stats
 
 <!--
 ![5026's GitHub stats](https://github-readme-stats.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
@@ -64,10 +64,18 @@
   <img src="https://gist.githubusercontent.com/SN-Koarashi/7a001f3a4264ede1ad84af101fd0ffa6/raw/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
+<picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats">
+</picture>
+
+<picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6" alt="GitHub top languages">
+</picture>
+<!--
 ![5026's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
 
 ![5026's GitHub Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6)
-
+-->
 <!--
 
 Here are some ideas to get you started:
