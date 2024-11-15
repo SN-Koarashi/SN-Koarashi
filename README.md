@@ -4,6 +4,8 @@
 > `¯\_(ツ)_/¯`
 
 ## Skills
+It's not important.
+<!--
 ### IDE
 ![IDEA](https://img.shields.io/static/v1?style=for-the-badge&color=f7f7f7&logo=IntelliJIDEA&logoColor=000000&message=IntelliJ+IDEA&label=)
 ![VS](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=visualstudio&logoColor=ce97fa&message=visual+studio&label=)
@@ -51,7 +53,7 @@
 ![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=000000&logo=TrueNAS&logoColor=0095D5&label=)
 ![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
-
+-->
 ## Stats
 
 <!--
