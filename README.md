@@ -3,9 +3,10 @@
 
 > `¯\_(ツ)_/¯`
 
+<!--
 ## Skills
 It's not important.
-<!--
+
 ### IDE
 ![IDEA](https://img.shields.io/static/v1?style=for-the-badge&color=f7f7f7&logo=IntelliJIDEA&logoColor=000000&message=IntelliJ+IDEA&label=)
 ![VS](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=visualstudio&logoColor=ce97fa&message=visual+studio&label=)
