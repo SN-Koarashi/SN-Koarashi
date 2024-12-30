@@ -3,17 +3,14 @@
 
 > `¯\_(ツ)_/¯`
 
-<!--
-## Skills
-It's not important.
 
-### IDE
+## Skills
+
+### IDE & Code Editor
 ![IDEA](https://img.shields.io/static/v1?style=for-the-badge&color=f7f7f7&logo=IntelliJIDEA&logoColor=000000&message=IntelliJ+IDEA&label=)
 ![VS](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=visualstudio&logoColor=ce97fa&message=visual+studio&label=)
-
-### Code Editor
-![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=Notepad%2B%2B&logoColor=90E59A&message=Notepad%2B%2B&label=)
 ![VSCODE](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=visualstudiocode&logoColor=23aaf2&message=visual+studio+code&label=)
+![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=Notepad%2B%2B&logoColor=90E59A&message=Notepad%2B%2B&label=)
 
 ### Web Server
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&color=474747&logo=Apache&logoColor=D22128&message=Apache&label=)
@@ -38,6 +35,8 @@ It's not important.
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF&label=)
 
 ### Database Management Systems
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
@@ -54,7 +53,8 @@ It's not important.
 ![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=000000&logo=TrueNAS&logoColor=0095D5&label=)
 ![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
--->
+![Proxmox VE](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=proxmox&logoColor=fff&message=Proxmox+VE&label=)
+
 ## Stats
 
 <!--
