@@ -2,8 +2,19 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/snkoarashi)
 
 > `¯\_(ツ)_/¯`
+## Skill Stacking
+* Programming Languages
+  * `PHP`, `JavaScript`, `CSS`, `HTML`, `Java`, `C#`
+* Frameworks
+  * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
+* Databases
+  * `MariaDB`, `Access`, `Microsoft SQL Server`
+* Tools
+  * `Notepad++`, `Visual Studio`, `Visual Studio Code`, `Postman`
+* Operating Systems
+  * `Proxmox VE`, `Ubuntu`, `TrueNAS`, `Windows`
 
-
+<!-- Maybe these are not important or too fancy?
 ## Skills
 
 ### IDE & Code Editor
@@ -54,7 +65,7 @@
 ![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
 ![Proxmox VE](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=proxmox&logoColor=fff&message=Proxmox+VE&label=)
-
+-->
 ## Stats
 
 <!--
