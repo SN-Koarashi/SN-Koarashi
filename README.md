@@ -8,7 +8,7 @@
 * Frameworks
   * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
 * Databases
-  * `MariaDB`, `Access`, `Microsoft SQL Server`
+  * `MariaDB`, `Microsoft Access`, `Microsoft SQL Server`
 * Tools
   * `Notepad++`, `Visual Studio`, `Visual Studio Code`, `Postman`
 * Operating Systems
