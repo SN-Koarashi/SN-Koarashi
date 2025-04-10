@@ -10,7 +10,7 @@
 * Databases
   * `MariaDB`, `Microsoft Access`, `Microsoft SQL Server`
 * Tools
-  * `Notepad++`, `Visual Studio`, `Visual Studio Code`, `Postman`
+  * `Notepad++`, `Visual Studio`, `Visual Studio Code`, `Postman`, `phpMyAdmin`, `HeidiSQL`
 * Operating Systems
   * `Proxmox VE`, `Ubuntu`, `TrueNAS`, `Windows`
 
