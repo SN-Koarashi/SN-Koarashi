@@ -4,7 +4,7 @@
 > `¯\_(ツ)_/¯`
 ## Skill Stacking
 * Programming Languages
-  * `PHP`, `JavaScript`, `CSS`, `HTML`, `Java`, `C#`
+  * `PHP`, `JavaScript`, `CSS`, `HTML`, `Java`, `C#`, `Python`
 * Frameworks
   * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
 * Databases
