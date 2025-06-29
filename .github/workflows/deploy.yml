@@ -17,6 +17,7 @@ jobs:
     steps:
       - uses: SN-Koarashi/metrics@master
         with:
+          use_prebuilt_image: no
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Taipei
           base_indepth: true
