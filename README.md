@@ -78,6 +78,7 @@
   <img src="https://gist.githubusercontent.com/SN-Koarashi/7a001f3a4264ede1ad84af101fd0ffa6/raw/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
+<!--
 <picture>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats">
 </picture>
@@ -85,7 +86,7 @@
 <picture>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6" alt="GitHub top languages">
 </picture>
-<!--
+
 ![5026's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SN-Koarashi&show_icons=true&theme=radical&include_all_commits=true)
 
 ![5026's GitHub Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SN-Koarashi&card_width=445&layout=compact&theme=radical&locale=en&langs_count=6)
