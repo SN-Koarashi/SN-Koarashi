@@ -6,11 +6,11 @@
 * Programming Languages
   * `PHP`, `JavaScript`, `CSS`, `HTML`, `Java`, `C#`, `Python`
 * Frameworks
-  * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
-* Databases
-  * `MariaDB`, `MySQL`, `Microsoft Access`, `Microsoft SQL Server`
+  * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Discord.js`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
+* Service Softwares
+  * `Apache`, `Nginx`, `MariaDB`, `Microsoft SQL Server`, `SpigotMC`, `BungeeCord`, `PaperMC`
 * Tools
-  * `Notepad++`, `Visual Studio`, `Visual Studio Code`, `Postman`, `phpMyAdmin`, `HeidiSQL`
+  * `Notepad++`, `Git`, `GitHub`, `Intellij IDEA`, `Visual Studio`, `Visual Studio Code`, `npm`, `nvm`, `Postman`, `phpMyAdmin`, `MediaWiki`, `Docker`, `Cloudflare`, `Google Cloud Platform`, `BookStack`, `Apache Maven`, `Unity`, `Godot Engine`
 * Operating Systems
   * `Proxmox VE`, `Ubuntu`, `TrueNAS`, `Windows`
 
