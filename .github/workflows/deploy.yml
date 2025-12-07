@@ -15,6 +15,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Install docker
+        run: sudo apt-get update && sudo apt-get install -y docker.io
+      
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
       - uses: SN-Koarashi/metrics@master
         with:
           use_prebuilt_image: no
