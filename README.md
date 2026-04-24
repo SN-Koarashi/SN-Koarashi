@@ -15,7 +15,7 @@ I believe that development is more than just coding or chasing technical brillia
 * Programming Languages
   * `PHP`, `JavaScript`, `CSS`, `HTML`, `Java`, `C#`, `Python`
 * Frameworks
-  * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Discord.js`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`
+  * `jQuery`, `Node.js`, `Express.js`, `Bootstrap`, `Tailwind CSS`, `Discord.js`, `Electron`, `Laravel`, `React Native`, `Next.js`, `React.js`, `Hono`, `Tanstack Start`
 * Service Softwares
   * `Apache`, `Nginx`, `MariaDB`, `Microsoft SQL Server`, `SpigotMC`, `BungeeCord`, `PaperMC`
 * Tools
