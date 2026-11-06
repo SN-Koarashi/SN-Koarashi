@@ -2,7 +2,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/snkoarashi)
 
 > `¯\_(ツ)_/¯`
-
+<!--
 I am a full-stack developer with over ten years of experience, specializing in building and integrating various types of websites and systems from the ground up. Since 2014, I have been developing membership systems and forum platforms, gaining in-depth expertise in HTML, CSS, JavaScript, and PHP, along with hands-on experience in system refactoring and optimization.
 
 To support the operation of Minecraft servers, I learned Java and developed custom plugins. With the rise of Discord, I also began developing applications using Node.js and integrating cross-platform features—capable of independently building and maintaining everything from community tools to backend systems.
@@ -10,6 +10,13 @@ To support the operation of Minecraft servers, I learned Java and developed cust
 I'm well-versed in mainstream frameworks such as React, Next.js, Laravel, jQuery, and Electron. I can quickly get up to speed with new technologies and jump right into implementation. Whether it's tool development, user interaction, API integration, or architectural optimization, I strive for stability and efficiency while continuously refining my skills.
 
 I believe that development is more than just coding or chasing technical brilliance. Instead of over-optimizing for performance or logic, I focus on designing systems that are easy to understand and effortless to expand. Every side project is a journey of learning and practice—and I'm always eager to keep moving forward on this path.
+-->
+
+I'm a full-stack developer with over 10 years of experience in software development, starting in 2014. My work spans web development, backend systems, cross-platform applications, and system integration.
+
+I enjoy exploring new technologies through hands-on projects, from web platforms and backend services to desktop applications and game-related systems. One of my notable open-source projects, IG Helper, has reached over 50,000 installations and approximately 6,000 daily active users. Maintaining this project has also given me valuable experience in international collaboration, code reviews, and long-term software maintenance.
+
+I believe software development goes beyond building features. It is about creating reliable, maintainable, and scalable systems while delivering a better user experience. I enjoy learning new technologies and turning ideas into practical solutions.
 
 ## Skill Stacking
 * Programming Languages
