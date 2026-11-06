@@ -12,7 +12,7 @@ I'm well-versed in mainstream frameworks such as React, Next.js, Laravel, jQuery
 I believe that development is more than just coding or chasing technical brilliance. Instead of over-optimizing for performance or logic, I focus on designing systems that are easy to understand and effortless to expand. Every side project is a journey of learning and practice—and I'm always eager to keep moving forward on this path.
 -->
 
-With over 10 years of software development experience since 2014, my work spans web development, backend systems, cross-platform applications, and system integration.
+Actively involved in software development since 2014, with over 10 years of hands-on experience in personal projects and independent software development. Areas of focus include web development, backend systems, cross-platform applications, and system integration.
 
 Throughout this journey, I've worked on a variety of projects, ranging from web platforms and backend services to desktop applications and game-related systems. One notable open-source project, Instagram Helper, has reached over 50,000 installations and approximately 6,000 daily active users. Maintaining the project has also provided valuable experience in international collaboration, code reviews, technical discussions, and long-term product maintenance.
 
